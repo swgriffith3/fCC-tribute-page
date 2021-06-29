@@ -1,0 +1,32 @@
+/* font-family: 'Patrick Hand SC', cursive; */
+/* font-family: 'Roboto', sans-serif; */
+
+body {
+  background-color: black;
+}
+
+#title {
+  color: rgb(84, 247, 106);
+  font-size: 5em;
+  font-family: 'Patrick Hand SC', cursive;
+  text-align: center;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+#img-caption {
+  color: rgb(167, 142, 142);
+  font-family: Roboto, sans-serif;
+  text-align: center;
+}
+
+.main-characters {
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+}
