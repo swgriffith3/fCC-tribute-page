@@ -47,7 +47,7 @@ body {
 }
 
 .char-div {
-  width: 15vw;
+  width: 10vw;
 }
 
 .char-img {
@@ -56,6 +56,5 @@ body {
 }
 
 li {
-  text-align: left;
-  /* margin-left: media query; */
+  list-style-type: none;
 }
